@@ -1,0 +1,19 @@
+#wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 920px; }
+
+header {
+  height: 80px;
+  padding: 0px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; }
+
+.ui.light {
+  font-weight: 300; }
+
+footer {
+  height: 30px; }
+  footer .copyright {
+    font-size: 11px; }
